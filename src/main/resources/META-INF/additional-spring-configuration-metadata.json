@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "telegrambot.webHookPath",
+      "type": "java.lang.String",
+      "description": "Description for telegrambot.webHookPath."
+    },
+    {
+      "name": "telegrambot.botToken",
+      "type": "java.lang.String",
+      "description": "Description for telegrambot.botToken."
+    },
+    {
+      "name": "telegrambot.userName",
+      "type": "java.lang.String",
+      "description": "Description for telegrambot.userName."
+    }
+  ] }
